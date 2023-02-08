@@ -1,19 +1,11 @@
 ## Sobre mim:
 #### Olá! Eu sou um desenvolvedor apaixonado por tecnologia e inovação!
 
- Comecei a minha jornada como programador há algum tempo, 
- e desde então tenho me dedicado a aprender e aprimorar 
- minhas habilidades em diferentes linguagens de programação
- e tecnologias. Eu gosto de resolver problemas e construir
+  Eu gosto de resolver problemas e construir
  soluções criativas, e acredito que a tecnologia tem o poder
  de mudar o mundo para melhor.
 
- Alguns dos projetos pelos quais já trabalhei incluem aplicativos web,
- aplicativos móveis, sistemas de banco de dados e muito mais. 
- Sempre estou procurando por novos desafios e oportunidades de aprendizado,
- e estou ansioso para ver o que o futuro me reserva.
-
- Além de programar, também gosto de tocar contra-baixo, saltar de paraquedas e praticar skateboard. Se você quiser saber mais sobre mim ou trabalhar em algum projeto juntos, não hesite em entrar em contato!
+Se você quiser saber mais sobre mim ou trabalhar em algum projeto juntos, não hesite em entrar em contato!
 
 ## Ferramentas e Tecnologias:
 
