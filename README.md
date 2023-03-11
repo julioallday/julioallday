@@ -1,12 +1,3 @@
-## Sobre mim:
-#### Olá! Eu sou um desenvolvedor apaixonado por tecnologia e inovação!
-
-  Eu gosto de resolver problemas e construir
- soluções criativas, e acredito que a tecnologia tem o poder
- de mudar o mundo para melhor.
-
-Se você quiser saber mais sobre mim ou trabalhar em algum projeto juntos, não hesite em entrar em contato!
-
 ## Ferramentas e Tecnologias:
 
 <div class="ferramentas" style="display:flex;" >
@@ -26,13 +17,14 @@ Se você quiser saber mais sobre mim ou trabalhar em algum projeto juntos, não 
         <a href="https://www.linkedin.com/in/julio-furtado-tech" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
         
-<!-- ## Estatísticas GitHub:
+## Estatísticas GitHub:
         
 <div>
 <a href="https://github.com/julioallday">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioallday&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julioallday&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div> -->
+</div>
         
-![Snake animation](https://github.com/julioallday/julioallday/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/julioallday/julioallday/blob/output/github-contribution-grid-snake.svg)
         
+ -->
